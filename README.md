@@ -22,7 +22,9 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ---
 
 ### 🛠 TECH STACK
-#### 🟢 Frontend
+#### 🌐Frontend
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 
 

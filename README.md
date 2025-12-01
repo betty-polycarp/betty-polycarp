@@ -12,9 +12,17 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ---
 
 ### 💡CORE STRENGTHS
+✅Full Stack Development: Nodejs,javascript,php
+✅Restful API's Design & intergration
+✅DataBase Architechure: mysql,sql
+✅CI/CD automation with Github Actions
+✅Agile Development & Collaboration
+✅Technical Leadership
 
 ---
 
 ### 🛠 TECH STACK
+#### 🟢 Frontend
+
 
 

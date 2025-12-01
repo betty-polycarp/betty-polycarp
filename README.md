@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align-text="center">Hi there 👋</h1>
+<h1 align-text="center">I'm Betty POlycarp</h1>
 
 <!--
 **betty-polycarp/betty-polycarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

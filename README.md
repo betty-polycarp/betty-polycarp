@@ -54,6 +54,15 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 
 ### 📊Github Analytics
 
+---
+
+### 🌐 Connect With Me
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white): +234 903 014 1224
+
+
 
 
 

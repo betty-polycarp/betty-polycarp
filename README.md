@@ -53,13 +53,14 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ---
 
 ### 📊Github Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=betty-polycarp&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub stats for betty-polycarp" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betty-polycarp&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub stats for betty-polycarp" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betty-polycarp&layout=compact&langs_count=8&cache_seconds=7200" alt="Top languages for betty-polycarp" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=betty-polycarp&hide_border=true" alt="GitHub streak stats for betty-polycarp" />
 <img src="https://github-profile-trophy.vercel.app/?username=betty-polycarp&theme=onedark&no-bg=true" alt="GitHub trophies for betty-polycarp" />
 <img src="https://ghchart.rshah.org/betty-polycarp" alt="GitHub contribution chart for betty-polycarp" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betty-polycarp" alt="GitHub profile summary for betty-polycarp" />
-
+</p>
 ---
 
 ### 🌐 Connect With Me

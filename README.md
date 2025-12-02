@@ -38,7 +38,7 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -55,12 +55,11 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ### 📊Github Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betty-polycarp&layout=compact&langs_count=8&cache_seconds=7200" alt="Top languages for betty-polycarp" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=betty-polycarp&theme=onedark&no-bg=true" alt="GitHub trophies for betty-polycarp" />
-  
-<img src="https://ghchart.rshah.org/betty-polycarp" alt="GitHub contribution chart for betty-polycarp" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betty-polycarp" alt="GitHub profile summary for betty-polycarp" />
+  <img src="https://github-readme-stats.vercel.app/api?username=betty-polycarp&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub stats for betty-polycarp" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betty-polycarp&hide_border=true" alt="GitHub streak stats for betty-polycarp" />
+  <img src="https://github-profile-trophy.vercel.app/?username=betty-polycarp&theme=onedark&no-bg=true" alt="GitHub trophies for betty-polycarp" />
+  <img src="https://ghchart.rshah.org/betty-polycarp" alt="GitHub contribution chart for betty-polycarp" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betty-polycarp" alt="GitHub profile summary for betty-polycarp" />
 </p>
 
 ---

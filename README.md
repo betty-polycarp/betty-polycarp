@@ -65,7 +65,7 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ---
 
 ### 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-YourUsernameHere-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourUsernameHere@example.com)
+[![Email](https://img.shields.io/badge/Email-bettypolycarp2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourUsernameHere@example.com)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234_903_014_1224-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349030141224)

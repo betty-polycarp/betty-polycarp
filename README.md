@@ -53,14 +53,21 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ---
 
 ### 📊Github Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=betty-polycarp&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub stats for betty-polycarp" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betty-polycarp&layout=compact&langs_count=8&cache_seconds=7200" alt="Top languages for betty-polycarp" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=betty-polycarp&hide_border=true" alt="GitHub streak stats for betty-polycarp" />
+<img src="https://github-profile-trophy.vercel.app/?username=betty-polycarp&theme=onedark&no-bg=true" alt="GitHub trophies for betty-polycarp" />
+<img src="https://ghchart.rshah.org/betty-polycarp" alt="GitHub contribution chart for betty-polycarp" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betty-polycarp" alt="GitHub profile summary for betty-polycarp" />
 
 ---
 
 ### 🌐 Connect With Me
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-YourUsernameHere-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourUsernameHere@example.com)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white): +234 903 014 1224
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234_903_014_1224-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349030141224)
+
 
 
 

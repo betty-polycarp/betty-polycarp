@@ -55,7 +55,9 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 ### 📊Github Analytics
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=betty-polycarp&theme=onedark&no-bg=true" alt="GitHub trophies for betty-polycarp" />
+  
 <img src="https://ghchart.rshah.org/betty-polycarp" alt="GitHub contribution chart for betty-polycarp" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betty-polycarp" alt="GitHub profile summary for betty-polycarp" />
 </p>
 
@@ -68,8 +70,6 @@ As I continue to grow, I’m excited to push boundaries, innovate, and make a la
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234_903_014_1224-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349030141224)
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=betty-polycarp)
-
 
 
 
